@@ -5,7 +5,7 @@ Sand 6\
 72076 Tübingen\
 Germany
 
-E-Mail:  [hamit.basgoel (at) uni-tuebingen.de](mailto:hamit.basgoel%20(at)%20uni-tuebingen.de)\
+E-Mail: [hamit.basgoel (at) uni-tuebingen.de](mailto:hamit.basgoel%20(at)%20uni-tuebingen.de)\
 [Google scholar](https://scholar.google.com/citations?user=i2Qn4EIAAAAJ&hl=en&oi=ao)\
 [Github](https://github.com/hamitbasgol)
 
@@ -15,7 +15,9 @@ I use machine learning models and psychophysical experiments to understand cogni
 
 ### CV
 
-I studied Psychology (B.A) at Hacettepe University. Then, I followed my graduate education in Cognitive Science Program at Boğaziçi University under the supervision of Dr. Emre Ugur and Dr. Inci Ayhan. During my M.A, my research focused on investigating time perception in artificial and cognitive systems and exploring event segmentation from the point of view of predictive processing. After completing my thesis entitled "A Computational Model and Psychological Investigation of Event Segmentation and Learning", I graduated from the program in 2021. I am a member of the [Experimental Cognitive Science Group](http://www.ecogsci.cs.uni-tuebingen.de/index.php) and of the joint project named [Robust Vision](https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-1233/).  
+I studied Psychology (B.A) at Hacettepe University. Then, I followed my graduate education in Cognitive Science Program at Boğaziçi University under the supervision of Dr. Emre Ugur and Dr. Inci Ayhan. During my M.A, my research focused on investigating time perception in artificial and cognitive systems and exploring event segmentation from the point of view of predictive processing. After completing my thesis entitled "A Computational Model and Psychological Investigation of Event Segmentation and Learning", I graduated from the program in 2021 with high honors. 
+
+I am now a member of the [Experimental Cognitive Science Group](http://www.ecogsci.cs.uni-tuebingen.de/index.php) and of the joint project named [Robust Vision](https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-1233/). I work under the supervision of Dr. Volker Franz, who is interested in statistics/research methodology and neuroscience of perception and action.
   
 
 ### Publications and Conferences
