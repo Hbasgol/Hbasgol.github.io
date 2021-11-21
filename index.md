@@ -1,23 +1,21 @@
-
-# Hamit Basgol
-
-Eberhard Karls Universität Tübingen
-Experimental Cognitive Science
-Sand 6
-72076 Tübingen
+Hamit Basgol\
+Eberhard Karls Universität Tübingen\
+Experimental Cognitive Science\
+Sand 6\
+72076 Tübingen\
 Germany
 
-E-Mail:  [hamit.basgoel (at) uni-tuebingen.de](mailto:hamit.basgoel%20(at)%20uni-tuebingen.de)
-[Google scholar](https://scholar.google.com/citations?user=i2Qn4EIAAAAJ&hl=en&oi=ao)
+E-Mail:  [hamit.basgoel (at) uni-tuebingen.de](mailto:hamit.basgoel%20(at)%20uni-tuebingen.de)\
+[Google scholar](https://scholar.google.com/citations?user=i2Qn4EIAAAAJ&hl=en&oi=ao)\
 [Github](https://github.com/hamitbasgol)
 
 ### Research Interests
 
-I use machine learning models and psychophysical experiments in order to understand cognition and behavior. In general, I am interested in the top-down modulation of visual processing. In particular, my current research interest is the effect of pupil-linked arousal modulation on performances in perceptual and cognitive tasks.
+I use machine learning models and psychophysical experiments to understand cognition and behavior. In general, I am interested in the top-down modulation of visual processing. In particular, my current research interest is the effect of pupil-linked arousal modulation on performances in perceptual and cognitive tasks.
 
 ### CV
 
-I studied Psychology (B.A) at Hacettepe University. Then, I followed my graduate education in Cognitive Science Program at Boğaziçi University under the supervision of Dr. Emre Ugur and Dr. Inci Ayhan. During my M.A, my research was focused on investigating time perception in artificial and cognitive systems and exploring event segmentation from the point of view of predictive processing. After completing my thesis entitled [A Computational Model and Psychological Investigation of Event Segmentation and Learning (http://www.ecogsci.cs.uni-tuebingen.de/team/hamit-basgol/HamitBasgol-MA-abstract.pdf) (please send an email for the full version), I graduated from the program in 2021. I am a member of the [Experimental Cognitive Science Group](http://www.ecogsci.cs.uni-tuebingen.de/index.php) and of the joint project named [Robust Vision](https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-1233/).  
+I studied Psychology (B.A) at Hacettepe University. Then, I followed my graduate education in Cognitive Science Program at Boğaziçi University under the supervision of Dr. Emre Ugur and Dr. Inci Ayhan. During my M.A, my research focused on investigating time perception in artificial and cognitive systems and exploring event segmentation from the point of view of predictive processing. After completing my thesis entitled "A Computational Model and Psychological Investigation of Event Segmentation and Learning", I graduated from the program in 2021. I am a member of the [Experimental Cognitive Science Group](http://www.ecogsci.cs.uni-tuebingen.de/index.php) and of the joint project named [Robust Vision](https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-1233/).  
   
 
 ### Publications and Conferences
