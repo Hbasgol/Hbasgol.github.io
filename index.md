@@ -1,3 +1,5 @@
+<img src="hamitbasgol-picture.jpeg" alt="hamitbasgol" width="200" align="right"/>
+
 Hamit Basgol\
 Eberhard Karls Universität Tübingen\
 Experimental Cognitive Science\
